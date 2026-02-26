@@ -1,4 +1,4 @@
-25001957296279396
+25003729412442303
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101183,4 +101183,11 @@ JST PH series connector, S2B-PH-SM4-TB
 
 0
 4
+2
+superbatt
+CP_Radial_D22.0mm_P5.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, , diameter=22mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm  diameter 22mm Electrolytic Capacitor
+0
+2
 2
